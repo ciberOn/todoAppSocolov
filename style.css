@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background: linear-gradient(rgb(247, 158, 81),rgb(244, 166, 78));
+}
+
+.main_container{
+    margin: 0 auto;
+    border: 2px solid beige;
+    width: 810px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.ta_container{
+    width: 290px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input{
+    width: 290px;
+    background: none;text-align: center;
+    border: none;
+    color: antiquewhite;
+}
+
+.text{
+    border: 1px dashed wheat;
+    padding: 5px 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+.btn_sumbit{
+    padding: 5px 120px;
+    color:antiquewhite;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size:20px;
+}
+
+.hover_effect.hover{
+    border: 2px solid burlywood
+}
+    
